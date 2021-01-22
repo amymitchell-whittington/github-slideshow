@@ -2,4 +2,4 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Your text
+quotation or meme or witty caption
